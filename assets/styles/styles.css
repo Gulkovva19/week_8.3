@@ -36,30 +36,6 @@
     margin: 40px;
 }
 
-.content__description {
-    font-family: 'Roboto Slab', serif;
-    margin-top: 20px;
-}
-
-.content__button {
-    font-size: 20pt;
-    font-weight: bold;
-    background-color: #5222D0;
-    color: white;
-    border-radius: 50px;
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    height: 9vh;
-}
-
-.content__ico {
-    margin-left: 15px;
-}
-
-.pic {
-    height: 85vh;
-}
 
 .footer {
     margin: 50px;
