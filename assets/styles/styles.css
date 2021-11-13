@@ -55,6 +55,10 @@
     justify-content: space-around;
 }
 
+.card_withborder {
+    border: 1px solid #BB2247;
+}
+
 .main__cards_second {
     display: flex;
     justify-content: space-around;
