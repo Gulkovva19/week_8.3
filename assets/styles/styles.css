@@ -57,6 +57,7 @@
 
 .card_withborder {
     border: 1px solid #BB2247;
+    width: 18rem;
 }
 
 .main__cards_second {
@@ -74,6 +75,7 @@
 
 .card {
     border: none;
+    width: 18rem;
 }
 
 .card_last {
